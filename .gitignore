@@ -3,7 +3,12 @@
 /local.properties
 /.idea/
 
+/app/build.gradle*
+build.gradle*
+
 .DS_Store
 /build
 /captures
 .externalNativeBuild
+
+
